@@ -1,0 +1,14 @@
+Enter radius of sphere to find volume 15
+Enter radius of circle to find area 10
+Enter length of square to find area 20
+Enter length of square to find volume 20
+Enter length and breadth of rectangle to find area 15 20
+Enter length height and breadth of rectangle to find volume 22 10 5
+ 
+
+
+
+
+
+
+
